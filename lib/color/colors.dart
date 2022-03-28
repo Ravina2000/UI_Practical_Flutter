@@ -1,0 +1,41 @@
+import 'package:flutter/material.dart';
+
+const mainColor = COLOR_ACCENT;
+const mainLightColor = Color(0xfff8dfe8);
+const titleColor = const Color(0xffffffff);
+const ColorRed = Colors.red;
+const colorWhite = const Color(0xffffffff);
+const colorBlack = const Color(0xff1a1a1a);
+const colorLightBlack = const Color(0xff707070);
+const colorDarkBlack = const Color.fromARGB(100, 0, 0, 0);
+const colorBg = const Color(0xffeeeeee);
+const colorInActive = const Color(0xffe6e6e6);
+const colorViewLine = const Color(0xffd6d6d6);
+const colorWhiteLight = const Color.fromRGBO(241, 241, 242, 1);
+const colorGray = const Color(0xff9c9c9c);
+const colorTagGray = const Color(0xff4c4c4c);
+const colorLightGray = const Color(0xffC1C1C3);
+const drawerTextColor = Color(0xff4c5a7e);
+const colorLightGreen = const Color(0xffc0f1c2);
+const colorLightOrange = const Color(0xffffdcd3);
+const colorLightOrange2 = const Color(0xfffff1f1);
+const colorBlueStatus = const Color(0xff59acf3);
+const colorGreen = const Color(0xff3cb44a);
+const purpleColor = Color(0xffA72EA8);
+const blueColor = Color(0xff4D39BE);
+const blueFirstColor = Color(0xff4E5FFF);
+const blueSecondColor = Color(0xff001AFF);
+const textFieldColor = Color(0xffABB3FF);
+const colorYellow = Color(0xffFBDE08);
+const colorSkin = Color(0xfffb9a08);
+const colorCard = Color(0xffF1F1F1);
+
+// Material color schema
+const COLOR_PRIMARY = Color(0xff281a1b);
+const COLOR_PRIMARY_DARK = Color(0xFF4C4444);
+const COLOR_ACCENT = Color(0xffFBDE08);
+const COLOR_PRIMARY_TEXT = Color(0xff303030);
+const COLOR_GRAY= Color(0xFFE3E0E0);
+const COLOR_ICONS = Color(0xffFFFFFF);
+const COLOR_DIVIDER = Color(0xffBDBDBD);
+const COLOR_LIST_TITLE_BLUE = Color(0xff02349E);
